@@ -1,5 +1,5 @@
 {
-	"name": "your-project-name",
+	"name": "historical-allusions",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -23,6 +23,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@yababay67/svelte-components": "^0.2.5"
+		"@yababay67/svelte-components": "^0.2.6"
 	}
 }

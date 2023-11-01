@@ -2,7 +2,7 @@
     import '../styles/index.scss'
     import { Head, Footer } from '@yababay67/svelte-components'
     import { author, description, title, subtitle, keywords } from '../SEO.json'
-    import { WITH_BOOTSTRAP } from '$env/static/private'
+    import { PUBLIC_WITH_BOOTSTRAP } from '$env/static/public'
 
     const seo = { author, description, title, subtitle, keywords }
 </script>
@@ -16,7 +16,7 @@
 <Footer author={author} title={title} />
 
 <svelte:head>
-    {#if WITH_BOOTSTRAP === '1'}
+    {#if PUBLIC_WITH_BOOTSTRAP === '1'}
         <link href="/bootstrap.min.css" rel="stylesheet">
         <script src="/bootstrap.bundle.min.js"></script>
     {/if}
