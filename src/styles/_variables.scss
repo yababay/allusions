@@ -1,5 +1,9 @@
 $header-height: 10rem;
 $header-title-height-ratio: .65;
+$header-title-max-font-size: 3.2rem;
+$header-subtitle-max-font-size: 1.5rem;
+$header-title-min-font-size: 2.8rem;
+$header-subtitle-min-font-size: 1.2rem;
 
 $footer-height: 2rem;
 
@@ -7,8 +11,6 @@ $body-bg: #24313E;
 $body-color: #ECF2F3;
 $body-image: url('/background.png');
 $link-color: #1F99DC;
-//89BABF
-//6B7387
 
 $title-font-url: '/fonts/PlayfairDisplaySC-Bold.ttf';
 $subtitle-font-url: '/fonts/PlayfairDisplaySC-Regular.ttf';

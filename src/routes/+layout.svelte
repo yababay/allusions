@@ -1,7 +1,7 @@
 <script lang="ts">
     import '../styles/index.scss'
     import { Head, Footer } from '@yababay67/svelte-components'
-    import { author, description, title, subtitle, keywords } from '../SEO.json'
+    import { author, description, title, subtitle, keywords, license, url } from '../SEO.json'
     import { PUBLIC_WITH_BOOTSTRAP } from '$env/static/public'
 
     const seo = { author, description, title, subtitle, keywords }
@@ -13,7 +13,7 @@
     <slot />
 </main>
 
-<Footer author={author} title={title} />
+<Footer {author} {title} {license} {url} />
 
 <svelte:head>
     {#if PUBLIC_WITH_BOOTSTRAP === '1'}
