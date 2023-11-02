@@ -37,7 +37,7 @@
 
 # <a name="toc">Список статей</a>
 
-* [Шапка земли греческой](/articles/shapka-zemli-grecheskoi)
+* [Шапка земли греческой](/articles/shapka-zemli-grecheskoy)
 
 <!--
 * [Неистовый Русланд](/articles/neistovyj-rusland)
