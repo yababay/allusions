@@ -1,13 +1,14 @@
 @import "variables";
-@import '@yababay67/svelte-components/styles/layout.scss';
-@import '@yababay67/svelte-components/styles/publications/index.scss';
+@import "@yababay67/svelte-components/styles/layout.scss";
+@import "@yababay67/svelte-components/styles/publications/index.scss";
 
-article h1, article  h2, article h3, header p {
-    color: #6B7387;
+header p {
+    color: $article-special-color-1;
+    margin-top: -1rem;
 }
 
-article a, footer a {
-    color: #89BABF;
+footer a {
+    color: $article-special-color-2;
 }
 
 footer {

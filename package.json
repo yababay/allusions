@@ -23,6 +23,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@yababay67/svelte-components": "^0.2.8"
+		"@yababay67/svelte-components": "^0.2.12"
 	}
 }
