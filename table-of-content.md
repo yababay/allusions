@@ -83,9 +83,10 @@
 * [Сука любовь](/articles/suka-ljubov)
 * [Манипулирование манипулами и мануфактурами](/articles/manipulirovanie-manipulami-i-manufakturami)
 * [Занимательное ословедение](/articles/zanimatel-noe-oslovedenie)
-* [Гай Юлий Кейнсарь](/articles/gaj-julij-kejnsar-)
+* [Гай Юлий Кейнсарь](/articles/gaj-julij-kejnsar)
 * [Монета Moneta](/articles/moneta-moneta)
-* […дык ёлы-палы, здравствуй, сестра!](/articles/-dyk-ely-paly-zdravstvuj-sestra-)
+* […дык ёлы-палы, здравствуй, сестра!](/articles/dyk-ely-paly-zdravstvuj-sestra)
+* [Карл Маркс и подкустовый выползень. Часть 1](/articles/karl-marks-i-podkustovyj-vypolzen-chast-1)
 
 <!--
 * [Здесь были Жора, Вася и Бурнашев](/articles/zdes-byli-zhora-vasja-i-burnashev)
@@ -131,7 +132,6 @@
 * [Готский двор на острове Буяне](/articles/gotskij-dvor-na-ostrove-bujane)
 * [Мы строили, строили… А зачем?](/articles/my-stroili-stroili-a-zachem-)
 * [Хронологические инъекции](/articles/hronologicheskie-in-ektsii)
-* [Карл Маркс и подкустовый выползень. Часть 1](/articles/karl-marks-i-podkustovyj-vypolzen-chast-1)
 * [Узбеки в мореплавании](/articles/uzbeki-v-moreplavanii)
 * [Жоашен дю Белле — поэт-руинист](/articles/zhoashen-dju-belle-poet-ruinist)
 * [Историческая шрапнель](/articles/istoricheskaja-shrapnel-)
