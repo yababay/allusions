@@ -17,9 +17,12 @@ article {
 
     nav {
         display: flex;
-        margin-top: 3rem;
+        margin: 2rem 2rem 3rem 2rem;
         justify-content: space-between;
         width: 100%;
+        a {
+            font: smaller;
+        }
     }
 }
 
