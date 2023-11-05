@@ -51,10 +51,9 @@
 * [На поле древней битвы нет ни копий, ни костей](/articles/na-pole-drevnej-bitvy-net-ni-kopij-ni-kostej)
 * [Павка Корчагин и оливковое масло](/articles/pavka-korchagin-i-olivkovoe-maslo)
 * [Илья Муромец и Калигула](/articles/il-ja-muromets-i-kaligula)
-* [На горах валдайских ходил Аполлон](/articles/na-gorah-valdajskih-hodil-apollon)
 * [Гусли и хоккей](/articles/gusli-i-hokkej)
 * [Хорваты и хороводы](/articles/horvaty-i-horovody)
-* [Дядя Гера, Панч и барон Врангель](/articles/djadja-gera-panch-i-baron-vrangel-)
+* [Дядя Гера, Панч и барон Врангель](/articles/djadja-gera-panch-i-baron-vrangel)
 * [(Ана)хроники Вильяма Шекспира](/articles/ana-hroniki-vil-jama-shekspira)
 * [(Ана)хроники Вильяма Шекспира (продолжение)](/articles/ana-hroniki-vil-jama-shekspira-prodolzhenie)
 * [Юлий Цезарь и канцелярские принадлежности](/articles/julij-tsezar-i-kantseljarskie-prinadlezhnosti)
@@ -89,6 +88,7 @@
 * [Карл Маркс и подкустовый выползень. Часть 1](/articles/karl-marks-i-podkustovyj-vypolzen-chast-1)
 
 <!--
+* [На горах валдайских ходил Аполлон](/articles/na-gorah-valdajskih-hodil-apollon)
 * [Здесь были Жора, Вася и Бурнашев](/articles/zdes-byli-zhora-vasja-i-burnashev)
 * [Не Булгаков? К вам!](/articles/ne-bulgakov-k-vam-)
 * [Дело было под Тулой](/articles/delo-bylo-pod-tuloj)
