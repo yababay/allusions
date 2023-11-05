@@ -2,6 +2,13 @@
 @import "@yababay67/svelte-components/styles/layout.scss";
 @import "@yababay67/svelte-components/styles/publications/index.scss";
 
+article h1, h2, h3 {
+    font-family: SubtitleFont;
+    font-variant: small-caps;
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+
 header p {
     color: $article-special-color-1;
     margin-top: -1rem;

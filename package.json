@@ -4,11 +4,8 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"build": "vite build",
-		"preview": "vite preview",
-		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"deploy": "npm run build && ./scripts/deploy.sh",
-		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
+		"build": "vite build"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "^1.3.1",
