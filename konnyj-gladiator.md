@@ -16,9 +16,9 @@
 
 Ну, и в заключение — две картинки:
 
-<img src="neva.jpg" alt="Конные состязания на льду Невы, Россия, XIX в." />
+<img src="img/neva.jpg" alt="Конные состязания на льду Невы, Россия, XIX в." />
 
-<img src="const.jpg" alt="Конные состязания в античном Константинополе." />
+<img src="img/const.jpg" alt="Конные состязания в античном Константинополе." />
 
 [Ссылка на Medium](https://yababay.medium.com/%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80-7ef58c033d2f)
 

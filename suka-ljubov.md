@@ -29,5 +29,6 @@
 
 <img src="img/lupus.jpg" alt="Автор фото Дмитрий Казаков." />
 
+[К оглавлению](/#toc).
 
 [Ссылка на Medium](https://yababay.medium.com/%D1%81%D1%83%D0%BA%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-e05c28ed9f5b)
