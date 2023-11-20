@@ -1,23 +1,14 @@
 <script lang="ts">
-    import '../styles/index.scss'
-    import { Head, Footer } from '@yababay67/svelte-components'
-    import { author, description, title, subtitle, keywords, license, url } from '../SEO.json'
-    import { PUBLIC_WITH_BOOTSTRAP } from '$env/static/public'
+    import '@yababay67/sveltekit-components/styles/publications.scss'
+    import './+layout.scss'
+    import { Layout } from '@yababay67/sveltekit-components'
+    import type { SeoProps, BootstrapSource } from '@yababay67/sveltekit-components/types'
+    import { author, brand, title, subtitle, description, keywords, license, url, bootstrap as BOOTSTRAP_SOURCE } from '../app.json'
 
-    const seo = { author, description, title, subtitle, keywords }
+    const bootstrap = BOOTSTRAP_SOURCE as BootstrapSource
+    const seo: SeoProps = { author, brand, title, subtitle, description, keywords, license, url }
 </script>
 
-<Head {seo} />
-
-<main>
+<Layout {seo} {bootstrap} >
     <slot />
-</main>
-
-<Footer {author} {title} {license} {url} />
-
-<svelte:head>
-    {#if PUBLIC_WITH_BOOTSTRAP === '1'}
-        <link href="/bootstrap.min.css" rel="stylesheet">
-        <script src="/bootstrap.bundle.min.js"></script>
-    {/if}
-</svelte:head>
+</Layout>
